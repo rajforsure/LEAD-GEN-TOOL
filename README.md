@@ -5,7 +5,7 @@ This project uses Python, Selenium, and Twilio to:
 - Score leads based on keyword matching
 - Send automated outreach messages (via Twilio SMS or simulated sending)
 
-## ⚠️ Important Note
+## ⚠️ Important Note:
 
 ✅ This project uses **dummy Twilio credentials** in `config.py` for demonstration purposes.  
 ✅ No real Twilio account or phone numbers are included in this repository.  
@@ -13,7 +13,6 @@ This project uses Python, Selenium, and Twilio to:
 👉 If you want to send real SMS messages:
 1. Create a free account at [Twilio](https://www.twilio.com/try-twilio).
 2. Add your `TWILIO_ACCOUNT_SID`, `TWILIO_AUTH_TOKEN`, and `TWILIO_PHONE` to your own `config.py` file.
-
 ---
 
 ## Setup Instructions
